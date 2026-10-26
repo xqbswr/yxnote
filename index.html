@@ -1,44 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Book Reader 隐私政策 / Privacy Policy</title>
-<style>
-  body { max-width: 760px; margin: 0 auto; padding: 48px 20px 64px; font-family: -apple-system, "PingFang SC", "PingFang TC", "Microsoft YaHei", "Helvetica Neue", sans-serif; color: #2c2c2c; line-height: 1.75; text-align: center; }
-  .logo { font-size: 44px; margin-bottom: 8px; }
-  h1 { font-size: 24px; margin: 0 0 4px; }
-  .sub { color: #777; font-size: 14px; margin: 0 0 32px; }
-  .langs { display: flex; flex-direction: column; gap: 14px; max-width: 360px; margin: 0 auto; }
-  .lang-card { display: block; padding: 16px 18px; border-radius: 10px; background: #faf3e7; border: 1px solid #e8dcc8; text-decoration: none; color: #2c2c2c; text-align: left; transition: all .15s; }
-  .lang-card:hover { background: #f4e8d5; border-color: #b88552; }
-  .lang-card .lang-name { font-size: 17px; font-weight: 600; color: #b88552; }
-  .lang-card .lang-desc { font-size: 13px; color: #777; margin-top: 2px; }
-  .footer { margin-top: 40px; font-size: 12px; color: #aaa; }
-</style>
-</head>
-<body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>热门小说榜</title>
+    <meta name="description" content="从多个书源站自动汇总的热门小说榜单，每天更新。" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="wrap">
+        <div class="top-main">
+          <h1>热门小说榜</h1>
+          <p class="sub" id="meta">正在加载…</p>
+        </div>
+        <a class="app-link" href="./data/rank.json" id="rawLink" title="原始数据">JSON</a>
+      </div>
+    </header>
 
-<div class="logo">📖</div>
-<h1>Book Reader 隐私政策</h1>
-<p class="sub">Privacy Policy — 请选择你的语言 / Choose your language</p>
+    <div class="wrap controls">
+      <div class="search">
+        <input id="q" type="search" placeholder="搜书名 / 作者 / 分类" autocomplete="off" />
+      </div>
+      <div class="chips" id="chips"></div>
+    </div>
 
-<div class="langs">
-  <a class="lang-card" href="privacy-policy-zh.html">
-    <div class="lang-name">简体中文</div>
-    <div class="lang-desc">Simplified Chinese</div>
-  </a>
-  <a class="lang-card" href="privacy-policy-zh-hant.html">
-    <div class="lang-name">繁體中文</div>
-    <div class="lang-desc">Traditional Chinese</div>
-  </a>
-  <a class="lang-card" href="privacy-policy-en.html">
-    <div class="lang-name">English</div>
-    <div class="lang-desc">English</div>
-  </a>
-</div>
+    <main class="wrap">
+      <ol class="list" id="list"></ol>
+      <p class="empty" id="empty" hidden>没有匹配的书</p>
+    </main>
 
-<p class="footer">Book Reader · 生效日期 2026-10-22</p>
+    <footer class="foot wrap">
+      <p>
+        榜单由脚本从各书源站的公开排行榜页抓取，每天自动更新一次。
+        「几站」表示这本书同时出现在几个站点，是比单站排名更可靠的参考。
+      </p>
+      <p class="dim">
+        数据指向第三方站点，内容与可用性由该站点负责。本站只做汇总索引，不存储任何书籍内容。
+      </p>
+    </footer>
 
-</body>
+    <script src="./app.js"></script>
+  </body>
 </html>
