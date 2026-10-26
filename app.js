@@ -1,5 +1,5 @@
 /**
- * 榜单页逻辑：读同目录下的 data/rank.json，渲染成可筛选、可搜索的列表。
+ * 榜单页逻辑：读同目录下的 rank.json，渲染成可筛选、可搜索的列表。
  *
  * 全部用 DOM API 创建节点，不用 innerHTML —— 书名是第三方页面上抓来的字符串，
  * 里面出现 < 或 & 完全可能，拼字符串迟早出事。
@@ -212,7 +212,7 @@
     $list.appendChild(sk)
   }
 
-  fetch('./data/rank.json?t=' + Date.now())
+  fetch('./rank.json?t=' + Date.now())
     .then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status)
       return r.json()

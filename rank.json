@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:53:44.259Z",
+  "generatedAt": "2026-10-26T05:43:59.654Z",
   "version": 1,
   "boards": [
     {
@@ -52,108 +52,15 @@
       "count": 150
     }
   ],
-  "total": 266,
+  "total": 269,
   "books": [
     {
-      "id": "凡人修仙传|忘语",
-      "title": "凡人修仙传",
-      "author": "忘语",
+      "id": "地煞七十二变|祭酒",
+      "title": "地煞七十二变",
+      "author": "祭酒",
       "category": "仙侠修真",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/5/",
-      "siteCount": 3,
-      "sites": [
-        "求书网",
-        "唐三中文",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·总榜",
-        "唐三中文·总榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 1
-    },
-    {
-      "id": "校花的贴身高手|鱼人二代",
-      "title": "校花的贴身高手",
-      "author": "鱼人二代",
-      "category": "玄幻异界",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/47/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "求书网·总榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 2
-    },
-    {
-      "id": "剑来|烽火戏诸侯",
-      "title": "剑来",
-      "author": "烽火戏诸侯",
-      "category": "玄幻异界",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/6194/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 3
-    },
-    {
-      "id": "全职高手|蝴蝶蓝",
-      "title": "全职高手",
-      "author": "蝴蝶蓝",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/11/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 4
-    },
-    {
-      "id": "神话版三国|坟土荒草",
-      "title": "神话版三国",
-      "author": "坟土荒草",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/55628/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 5
-    },
-    {
-      "id": "轮回乐园|那一只蚊子",
-      "title": "轮回乐园",
-      "author": "那一只蚊子",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/71268/",
+      "url": "http://www.qiushu.info/t/85920/",
       "siteCount": 2,
       "sites": [
         "求书网",
@@ -163,43 +70,25 @@
         "求书网·周榜",
         "悠久小说·分类榜"
       ],
-      "hot": 6
+      "hot": 1
     },
     {
-      "id": "豪婿|绝人",
-      "title": "豪婿",
-      "author": "绝人",
-      "category": "都市生活",
+      "id": "伏天氏|净无痕",
+      "title": "伏天氏",
+      "author": "净无痕",
+      "category": "玄幻异界",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/94722/",
+      "url": "http://www.qiushu.info/t/676/",
       "siteCount": 2,
       "sites": [
         "求书网",
-        "唐三中文"
+        "悠久小说"
       ],
       "boards": [
-        "求书网·总榜",
-        "唐三中文·总榜"
+        "求书网·月榜",
+        "悠久小说·分类榜"
       ],
-      "hot": 7
-    },
-    {
-      "id": "武炼巅峰|莫默",
-      "title": "武炼巅峰",
-      "author": "莫默",
-      "category": "东方玄幻",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/11148/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "唐三中文"
-      ],
-      "boards": [
-        "求书网·总榜",
-        "唐三中文·总榜"
-      ],
-      "hot": 8
+      "hot": 2
     },
     {
       "id": "宇宙职业选手|我吃西红柿",
@@ -217,7 +106,61 @@
         "求书网·月榜",
         "悠久小说·分类榜"
       ],
-      "hot": 9
+      "hot": 3
+    },
+    {
+      "id": "武炼巅峰|莫默",
+      "title": "武炼巅峰",
+      "author": "莫默",
+      "category": "东方玄幻",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/11148/",
+      "siteCount": 2,
+      "sites": [
+        "求书网",
+        "唐三中文"
+      ],
+      "boards": [
+        "求书网·总榜",
+        "唐三中文·总榜"
+      ],
+      "hot": 4
+    },
+    {
+      "id": "史上最强炼气期|李道然",
+      "title": "史上最强炼气期",
+      "author": "李道然",
+      "category": "都市生活",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/91276/",
+      "siteCount": 2,
+      "sites": [
+        "求书网",
+        "唐三中文"
+      ],
+      "boards": [
+        "求书网·总榜",
+        "唐三中文·总榜"
+      ],
+      "hot": 5
+    },
+    {
+      "id": "一念永恒|耳根",
+      "title": "一念永恒",
+      "author": "耳根",
+      "category": "仙侠修真",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/59168/",
+      "siteCount": 2,
+      "sites": [
+        "求书网",
+        "悠久小说"
+      ],
+      "boards": [
+        "求书网·月榜",
+        "悠久小说·分类榜"
+      ],
+      "hot": 6
     },
     {
       "id": "夜的命名术",
@@ -235,25 +178,7 @@
         "唐三中文·总榜",
         "何以笙箫默小说·总榜"
       ],
-      "hot": 10
-    },
-    {
-      "id": "伏天氏|净无痕",
-      "title": "伏天氏",
-      "author": "净无痕",
-      "category": "玄幻异界",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/676/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·总榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 11
+      "hot": 7
     },
     {
       "id": "黎明之剑",
@@ -271,15 +196,15 @@
         "唐三中文·总榜",
         "悠久小说·分类榜"
       ],
-      "hot": 12
+      "hot": 8
     },
     {
-      "id": "诡秘之主|爱潜水的乌贼",
-      "title": "诡秘之主",
-      "author": "爱潜水的乌贼",
-      "category": "玄幻异界",
+      "id": "全职高手|蝴蝶蓝",
+      "title": "全职高手",
+      "author": "蝴蝶蓝",
+      "category": "网络游戏",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/14624/",
+      "url": "http://www.qiushu.info/t/11/",
       "siteCount": 2,
       "sites": [
         "求书网",
@@ -289,7 +214,25 @@
         "求书网·总榜",
         "悠久小说·分类榜"
       ],
-      "hot": 13
+      "hot": 9
+    },
+    {
+      "id": "凡人修仙传",
+      "title": "凡人修仙传",
+      "author": "",
+      "category": "仙侠小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/fanrenxiuxianchuan/",
+      "siteCount": 2,
+      "sites": [
+        "唐三中文",
+        "悠久小说"
+      ],
+      "boards": [
+        "唐三中文·总榜",
+        "悠久小说·分类榜"
+      ],
+      "hot": 10
     },
     {
       "id": "斗罗大陆5重生唐三",
@@ -307,331 +250,76 @@
         "何以笙箫默小说·总榜",
         "悠久小说·分类榜"
       ],
+      "hot": 11
+    },
+    {
+      "id": "男欢女爱|久石",
+      "title": "男欢女爱",
+      "author": "久石",
+      "category": "谍战特工",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/35294/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜",
+        "求书网·月榜",
+        "求书网·总榜"
+      ],
+      "hot": 12
+    },
+    {
+      "id": "宿命之环|爱潜水的乌贼",
+      "title": "宿命之环",
+      "author": "爱潜水的乌贼",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/8079/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜",
+        "求书网·月榜"
+      ],
+      "hot": 13
+    },
+    {
+      "id": "穿越星际妻荣夫贵|一见我珍",
+      "title": "穿越星际妻荣夫贵",
+      "author": "一见我珍",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/129165/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜",
+        "求书网·月榜"
+      ],
       "hot": 14
     },
     {
-      "id": "一念永恒|耳根",
-      "title": "一念永恒",
-      "author": "耳根",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/59168/",
-      "siteCount": 2,
-      "sites": [
-        "求书网",
-        "悠久小说"
-      ],
-      "boards": [
-        "求书网·总榜",
-        "悠久小说·分类榜"
-      ],
-      "hot": 15
-    },
-    {
-      "id": "我的1979|争斤论两花花帽",
-      "title": "我的1979",
-      "author": "争斤论两花花帽",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/58983/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "求书网·总榜"
-      ],
-      "hot": 16
-    },
-    {
-      "id": "万古神帝|飞天鱼",
-      "title": "万古神帝",
-      "author": "飞天鱼",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/61793/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜",
-        "求书网·总榜"
-      ],
-      "hot": 17
-    },
-    {
-      "id": "参加恋综这个小鲜肉过分接地气|不是蒜是水仙",
-      "title": "参加恋综，这个小鲜肉过分接地气",
-      "author": "不是蒜是水仙",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/173875/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 18
-    },
-    {
-      "id": "三国从刷好感开始兴汉|龙孙绕凤池",
-      "title": "三国：从刷好感开始兴汉",
-      "author": "龙孙绕凤池",
-      "category": "历史传奇",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/174116/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 19
-    },
-    {
-      "id": "乡村最强小神医|凡凡一生",
-      "title": "乡村最强小神医",
-      "author": "凡凡一生",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/92190/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 20
-    },
-    {
-      "id": "这个锦衣卫明明超强却过分划水|悠远的晴空",
-      "title": "这个锦衣卫明明超强却过分划水",
-      "author": "悠远的晴空",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/161198/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 21
-    },
-    {
-      "id": "诸天之百味人生|闭口禅",
-      "title": "诸天之百味人生",
-      "author": "闭口禅",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/160423/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 22
-    },
-    {
-      "id": "灵境行者|卖报小郎君",
-      "title": "灵境行者",
-      "author": "卖报小郎君",
-      "category": "科幻未来",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/7987/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 23
-    },
-    {
-      "id": "无限传奇之机械师|镜大人",
-      "title": "无限传奇之机械师",
-      "author": "镜大人",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/63402/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 24
-    },
-    {
-      "id": "混沌龙帝唐离杨倾月|三诫",
-      "title": "混沌龙帝唐离杨倾月",
-      "author": "三诫",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/34785/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 25
-    },
-    {
-      "id": "重生枭妻boss宠上瘾|椰子絮",
-      "title": "重生枭妻：Boss，宠上瘾",
-      "author": "椰子絮",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/89138/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 26
-    },
-    {
-      "id": "相公我家有田|古心儿",
-      "title": "相公,我家有田",
-      "author": "古心儿",
-      "category": "穿越重生",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/25070/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 27
-    },
-    {
-      "id": "帝王妻情惑嗜血暴君|方糖qo",
-      "title": "帝王妻，情惑嗜血暴君",
-      "author": "方糖Qo",
-      "category": "玄幻异界",
-      "status": "已完成",
-      "url": "http://www.qiushu.info/t/16950/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 28
-    },
-    {
-      "id": "光阴之外|耳根",
-      "title": "光阴之外",
-      "author": "耳根",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/78064/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 29
-    },
-    {
-      "id": "兔子必须死|一梦黄粱",
-      "title": "兔子必须死",
-      "author": "一梦黄粱",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/78261/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 30
-    },
-    {
-      "id": "豪门契约恶魔总裁饶了我|王族小妖",
-      "title": "豪门契约：恶魔总裁，饶了我！",
-      "author": "王族小妖",
+      "id": "独家占有|丁墨",
+      "title": "独家占有",
+      "author": "丁墨",
       "category": "耽美言情",
       "status": "已完成",
-      "url": "http://www.qiushu.info/t/12249/",
+      "url": "http://www.qiushu.info/t/15625/",
       "siteCount": 1,
       "sites": [
         "求书网"
       ],
       "boards": [
-        "求书网·周榜"
+        "求书网·周榜",
+        "求书网·月榜"
       ],
-      "hot": 31
-    },
-    {
-      "id": "成为妹妹的食物后|叶下秋城",
-      "title": "成为妹妹的食物后",
-      "author": "叶下秋城",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/83963/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 32
-    },
-    {
-      "id": "网游之召唤大骑士|海浪如山",
-      "title": "网游之召唤大骑士",
-      "author": "海浪如山",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/76461/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 33
-    },
-    {
-      "id": "恰似寒光遇骄阳|囧囧有妖",
-      "title": "恰似寒光遇骄阳",
-      "author": "囧囧有妖",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/78501/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 34
+      "hot": 15
     },
     {
       "id": "隔云勿相望|旖旎萌妃",
@@ -647,79 +335,15 @@
       "boards": [
         "求书网·周榜"
       ],
-      "hot": 35
+      "hot": 16
     },
     {
-      "id": "都是巴掌惹的祸|跑跑红枣",
-      "title": "都是巴掌惹的祸",
-      "author": "跑跑红枣",
-      "category": "耽美言情",
-      "status": "已完成",
-      "url": "http://www.qiushu.info/t/15041/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 36
-    },
-    {
-      "id": "大罗神道|博弈熊猫",
-      "title": "大罗神道",
-      "author": "博弈熊猫",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/124607/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 37
-    },
-    {
-      "id": "从海贼开始横推万界|燕云因陀罗",
-      "title": "从海贼开始横推万界",
-      "author": "燕云因陀罗",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/154316/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 38
-    },
-    {
-      "id": "叶辰夏若雪|风会笑",
-      "title": "叶辰夏若雪",
-      "author": "风会笑",
+      "id": "绝代神主|百里龙虾",
+      "title": "绝代神主",
+      "author": "百里龙虾",
       "category": "玄幻异界",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/33270/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 39
-    },
-    {
-      "id": "名门公敌①谢先生晚上见|千桦尽落",
-      "title": "名门公敌①谢先生，晚上见！",
-      "author": "千桦尽落",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/62784/",
+      "url": "http://www.qiushu.info/t/74601/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -727,63 +351,15 @@
       "boards": [
         "求书网·周榜"
       ],
-      "hot": 40
+      "hot": 17
     },
     {
-      "id": "赝太子|荆柯守",
-      "title": "赝太子",
-      "author": "荆柯守",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/95168/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 41
-    },
-    {
-      "id": "光明壁垒|会摔跤的熊猫",
-      "title": "光明壁垒",
-      "author": "会摔跤的熊猫",
-      "category": "科幻未来",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/150421/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 42
-    },
-    {
-      "id": "问丹朱|希行",
-      "title": "问丹朱",
-      "author": "希行",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/115188/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 43
-    },
-    {
-      "id": "龙符|梦入神机",
-      "title": "龙符",
-      "author": "梦入神机",
+      "id": "刺客奇航|和平主义者",
+      "title": "刺客奇航",
+      "author": "和平主义者",
       "category": "玄幻异界",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/79556/",
+      "url": "http://www.qiushu.info/t/75562/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -791,31 +367,47 @@
       "boards": [
         "求书网·周榜"
       ],
-      "hot": 44
+      "hot": 18
     },
     {
-      "id": "我是导演我不比烂|不是老狗",
-      "title": "我是导演，我不比烂",
-      "author": "不是老狗",
+      "id": "都市狂医|福老板",
+      "title": "都市狂医",
+      "author": "福老板",
       "category": "都市生活",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/160059/",
+      "url": "http://www.qiushu.info/t/172548/",
       "siteCount": 1,
       "sites": [
         "求书网"
       ],
       "boards": [
-        "求书网·月榜"
+        "求书网·周榜"
       ],
-      "hot": 45
+      "hot": 19
     },
     {
-      "id": "妖龙古帝|遥望南山",
-      "title": "妖龙古帝",
-      "author": "遥望南山",
+      "id": "北宋穿越指南|王梓钧",
+      "title": "北宋穿越指南",
+      "author": "王梓钧",
+      "category": "历史传奇",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/44274/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 20
+    },
+    {
+      "id": "黑龙法典|欢声",
+      "title": "黑龙法典",
+      "author": "欢声",
       "category": "网络游戏",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/88002/",
+      "url": "http://www.qiushu.info/t/78279/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -823,103 +415,7 @@
       "boards": [
         "求书网·周榜"
       ],
-      "hot": 46
-    },
-    {
-      "id": "司少重追退婚真千金|颜苏",
-      "title": "司少重追退婚真千金",
-      "author": "颜苏",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/52380/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 47
-    },
-    {
-      "id": "穿越香江之财富帝国|飘零幻影",
-      "title": "穿越香江之财富帝国",
-      "author": "飘零幻影",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/133778/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 48
-    },
-    {
-      "id": "蛊真人|蛊真人",
-      "title": "蛊真人",
-      "author": "蛊真人",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/11164/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 49
-    },
-    {
-      "id": "海彤战胤|海彤",
-      "title": "海彤战胤",
-      "author": "海彤",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/89815/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 50
-    },
-    {
-      "id": "吞噬星空之时光模拟|雨慕蓝",
-      "title": "吞噬星空之时光模拟",
-      "author": "雨慕蓝",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/168859/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·周榜"
-      ],
-      "hot": 51
-    },
-    {
-      "id": "恐怖复苏|佛前献花",
-      "title": "恐怖复苏",
-      "author": "佛前献花",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/78517/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 52
+      "hot": 21
     },
     {
       "id": "说好制作烂游戏泰坦陨落什么鬼|布洛芬战士",
@@ -935,15 +431,511 @@
       "boards": [
         "求书网·周榜"
       ],
+      "hot": 22
+    },
+    {
+      "id": "万界之全能至尊|小项圈",
+      "title": "万界之全能至尊",
+      "author": "小项圈",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/73355/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 23
+    },
+    {
+      "id": "网游之召唤大骑士|海浪如山",
+      "title": "网游之召唤大骑士",
+      "author": "海浪如山",
+      "category": "网络游戏",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/76461/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 24
+    },
+    {
+      "id": "光明壁垒|会摔跤的熊猫",
+      "title": "光明壁垒",
+      "author": "会摔跤的熊猫",
+      "category": "科幻未来",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/150421/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 25
+    },
+    {
+      "id": "绝品邪少|陨落星辰",
+      "title": "绝品邪少",
+      "author": "陨落星辰",
+      "category": "耽美言情",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/8202/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 26
+    },
+    {
+      "id": "吞噬星空之太桓之主|孔蚀",
+      "title": "吞噬星空之太桓之主",
+      "author": "孔蚀",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/170982/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 27
+    },
+    {
+      "id": "朱砂曲|鹦鹉晒月",
+      "title": "朱砂曲",
+      "author": "鹦鹉晒月",
+      "category": "历史传奇",
+      "status": "已完成",
+      "url": "http://www.qiushu.info/t/5922/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 28
+    },
+    {
+      "id": "武功自动修炼我在魔教修成佛皇|日每一万神成",
+      "title": "武功自动修炼：我在魔教修成佛皇",
+      "author": "日每一万神成",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/138291/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 29
+    },
+    {
+      "id": "盖世双谐|三天两觉",
+      "title": "盖世双谐",
+      "author": "三天两觉",
+      "category": "仙侠修真",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/11577/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 30
+    },
+    {
+      "id": "聊斋神级催眠师|窈窕小妖",
+      "title": "聊斋]神级催眠师",
+      "author": "窈窕小妖",
+      "category": "恐怖惊悚",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/55767/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 31
+    },
+    {
+      "id": "公府娇媳|浅春山",
+      "title": "公府娇媳",
+      "author": "浅春山",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/169712/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 32
+    },
+    {
+      "id": "万古神帝|飞天鱼",
+      "title": "万古神帝",
+      "author": "飞天鱼",
+      "category": "恐怖惊悚",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/61793/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 33
+    },
+    {
+      "id": "龙符|梦入神机",
+      "title": "龙符",
+      "author": "梦入神机",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/79556/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 34
+    },
+    {
+      "id": "乡村最强小神医|凡凡一生",
+      "title": "乡村最强小神医",
+      "author": "凡凡一生",
+      "category": "都市生活",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/92190/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 35
+    },
+    {
+      "id": "嘉佑嬉事|血红",
+      "title": "嘉佑嬉事",
+      "author": "血红",
+      "category": "仙侠修真",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/82874/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 36
+    },
+    {
+      "id": "总裁夺情抢我前妻休想|葉雪",
+      "title": "总裁夺情：抢我前妻，休想！",
+      "author": "葉雪",
+      "category": "宫廷贵族",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/35525/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 37
+    },
+    {
+      "id": "云虞之欢|芥末绿",
+      "title": "云虞之欢",
+      "author": "芥末绿",
+      "category": "宫廷贵族",
+      "status": "已完成",
+      "url": "http://www.qiushu.info/t/11868/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 38
+    },
+    {
+      "id": "斗罗之蚀雷之龙|以思为粮",
+      "title": "斗罗之蚀雷之龙",
+      "author": "以思为粮",
+      "category": "网络游戏",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/115675/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 39
+    },
+    {
+      "id": "问丹朱|希行",
+      "title": "问丹朱",
+      "author": "希行",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/115188/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 40
+    },
+    {
+      "id": "叶辰|风会笑",
+      "title": "叶辰",
+      "author": "风会笑",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/92792/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 41
+    },
+    {
+      "id": "美利坚传奇人生|月沧狼",
+      "title": "美利坚传奇人生",
+      "author": "月沧狼",
+      "category": "都市生活",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/121559/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 42
+    },
+    {
+      "id": "期待在异世界|如倾如诉",
+      "title": "期待在异世界",
+      "author": "如倾如诉",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/21886/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 43
+    },
+    {
+      "id": "都是巴掌惹的祸|跑跑红枣",
+      "title": "都是巴掌惹的祸",
+      "author": "跑跑红枣",
+      "category": "耽美言情",
+      "status": "已完成",
+      "url": "http://www.qiushu.info/t/15041/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 44
+    },
+    {
+      "id": "恰似寒光遇骄阳|囧囧有妖",
+      "title": "恰似寒光遇骄阳",
+      "author": "囧囧有妖",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/78501/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 45
+    },
+    {
+      "id": "三日情劫不嫁已婚总裁|漠子涵",
+      "title": "三日情劫：不嫁已婚总裁",
+      "author": "漠子涵",
+      "category": "宫廷贵族",
+      "status": "已完成",
+      "url": "http://www.qiushu.info/t/10152/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·周榜"
+      ],
+      "hot": 46
+    },
+    {
+      "id": "叶辰孙怡夏若雪|全文免费阅读",
+      "title": "叶辰孙怡夏若雪",
+      "author": "全文免费阅读",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/7753/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 47
+    },
+    {
+      "id": "秦安安傅时霆|简默",
+      "title": "秦安安傅时霆",
+      "author": "简默",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/77261/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 48
+    },
+    {
+      "id": "征战诸天世界|迦太基的失落",
+      "title": "征战诸天世界",
+      "author": "迦太基的失落",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/72302/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 49
+    },
+    {
+      "id": "李治你别怂|贼眉鼠眼",
+      "title": "李治你别怂",
+      "author": "贼眉鼠眼",
+      "category": "历史传奇",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/1439/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 50
+    },
+    {
+      "id": "绝世小仙医张冬杨翠|张南北",
+      "title": "绝世小仙医张冬杨翠",
+      "author": "张南北",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/119267/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 51
+    },
+    {
+      "id": "欧颜|颜苏",
+      "title": "欧颜",
+      "author": "颜苏",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/13808/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 52
+    },
+    {
+      "id": "逆剑狂神|一剑清新",
+      "title": "逆剑狂神",
+      "author": "一剑清新",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/73216/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
       "hot": 53
     },
     {
-      "id": "越做越爱|晓暴",
-      "title": "越做越爱",
-      "author": "晓暴",
-      "category": "体育竞技",
+      "id": "我是导演我不比烂|不是老狗",
+      "title": "我是导演，我不比烂",
+      "author": "不是老狗",
+      "category": "都市生活",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/25726/",
+      "url": "http://www.qiushu.info/t/160059/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -952,166 +944,6 @@
         "求书网·月榜"
       ],
       "hot": 54
-    },
-    {
-      "id": "北宋穿越指南|王梓钧",
-      "title": "北宋穿越指南",
-      "author": "王梓钧",
-      "category": "历史传奇",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/44274/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 55
-    },
-    {
-      "id": "大夏文圣|七月未时",
-      "title": "大夏文圣",
-      "author": "七月未时",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/156441/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 56
-    },
-    {
-      "id": "惊悚乐园|三天两觉",
-      "title": "惊悚乐园",
-      "author": "三天两觉",
-      "category": "网络游戏",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/17087/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 57
-    },
-    {
-      "id": "独家占有|丁墨",
-      "title": "独家占有",
-      "author": "丁墨",
-      "category": "耽美言情",
-      "status": "已完成",
-      "url": "http://www.qiushu.info/t/15625/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 58
-    },
-    {
-      "id": "张冬杨翠|张南北",
-      "title": "张冬杨翠",
-      "author": "张南北",
-      "category": "短篇综合",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/87868/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 59
-    },
-    {
-      "id": "修仙就是这样子的|凤嘲凰",
-      "title": "修仙就是这样子的",
-      "author": "凤嘲凰",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/149518/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 60
-    },
-    {
-      "id": "撩妻入室boss好猛|所藤",
-      "title": "撩妻入室，boss好猛",
-      "author": "所藤",
-      "category": "穿越重生",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/49828/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 61
-    },
-    {
-      "id": "黑道特种兵|巅峰残狼",
-      "title": "黑道特种兵",
-      "author": "巅峰残狼",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/7187/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 62
-    },
-    {
-      "id": "宿命之环|爱潜水的乌贼",
-      "title": "宿命之环",
-      "author": "爱潜水的乌贼",
-      "category": "玄幻异界",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/8079/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 63
-    },
-    {
-      "id": "苟在妖武乱世修仙|文抄公",
-      "title": "苟在妖武乱世修仙",
-      "author": "文抄公",
-      "category": "仙侠修真",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/384/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·月榜"
-      ],
-      "hot": 64
     },
     {
       "id": "官场美人|东南路断",
@@ -1127,7 +959,23 @@
       "boards": [
         "求书网·月榜"
       ],
-      "hot": 65
+      "hot": 55
+    },
+    {
+      "id": "斗破苍穹之无上之境|夜雨闻铃0",
+      "title": "斗破苍穹之无上之境",
+      "author": "夜雨闻铃0",
+      "category": "魔法幻情",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/580/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 56
     },
     {
       "id": "不朽凡人|鹅是老五",
@@ -1143,15 +991,47 @@
       "boards": [
         "求书网·月榜"
       ],
-      "hot": 66
+      "hot": 57
     },
     {
-      "id": "机武风暴|骷髅精灵",
-      "title": "机武风暴",
-      "author": "骷髅精灵",
+      "id": "家父汉高祖|历史系之狼",
+      "title": "家父汉高祖",
+      "author": "历史系之狼",
+      "category": "历史传奇",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/11968/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 58
+    },
+    {
+      "id": "万古神帝飞天鱼|飞天鱼",
+      "title": "万古神帝飞天鱼",
+      "author": "飞天鱼",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/1762/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 59
+    },
+    {
+      "id": "深海余烬|远瞳",
+      "title": "深海余烬",
+      "author": "远瞳",
       "category": "科幻未来",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/28357/",
+      "url": "http://www.qiushu.info/t/129309/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1159,15 +1039,15 @@
       "boards": [
         "求书网·月榜"
       ],
-      "hot": 67
+      "hot": 60
     },
     {
-      "id": "医路坦途|臧福生",
-      "title": "医路坦途",
-      "author": "臧福生",
-      "category": "都市生活",
+      "id": "帝霸|厌笔萧生",
+      "title": "帝霸",
+      "author": "厌笔萧生",
+      "category": "恐怖惊悚",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/86003/",
+      "url": "http://www.qiushu.info/t/57411/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1175,15 +1055,15 @@
       "boards": [
         "求书网·月榜"
       ],
-      "hot": 68
+      "hot": 61
     },
     {
-      "id": "福宝三岁半她被八个舅舅团宠了|萌汉子",
-      "title": "福宝三岁半，她被八个舅舅团宠了",
-      "author": "萌汉子",
-      "category": "都市生活",
+      "id": "惊天剑帝|帝剑一",
+      "title": "惊天剑帝",
+      "author": "帝剑一",
+      "category": "玄幻异界",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/154474/",
+      "url": "http://www.qiushu.info/t/80495/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1191,7 +1071,23 @@
       "boards": [
         "求书网·月榜"
       ],
-      "hot": 69
+      "hot": 62
+    },
+    {
+      "id": "当满级大佬翻车以后|纳兰闲",
+      "title": "当满级大佬翻车以后",
+      "author": "纳兰闲",
+      "category": "短篇综合",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/119483/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·月榜"
+      ],
+      "hot": 63
     },
     {
       "id": "陈黄皮叶红鱼",
@@ -1207,7 +1103,23 @@
       "boards": [
         "唐三中文·总榜"
       ],
-      "hot": 70
+      "hot": 64
+    },
+    {
+      "id": "黑科技研发中心|凡核桃",
+      "title": "黑科技研发中心",
+      "author": "凡核桃",
+      "category": "都市生活",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/72521/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 65
     },
     {
       "id": "快穿每次都是我躺枪",
@@ -1223,7 +1135,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 71
+      "hot": 66
     },
     {
       "id": "亏成首富从烂片开始",
@@ -1239,7 +1151,7 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 72
+      "hot": 67
     },
     {
       "id": "穿书后我给男主当药引",
@@ -1255,7 +1167,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 73
+      "hot": 68
     },
     {
       "id": "斗罗莽到你发慌",
@@ -1271,39 +1183,7 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 74
-    },
-    {
-      "id": "最强兵王|丛林狼",
-      "title": "最强兵王",
-      "author": "丛林狼",
-      "category": "军事战争",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/48819/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 75
-    },
-    {
-      "id": "超品相师|九灯和善",
-      "title": "超品相师",
-      "author": "九灯和善",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/50731/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 76
+      "hot": 69
     },
     {
       "id": "楚大人他居心不良",
@@ -1319,7 +1199,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 77
+      "hot": 70
     },
     {
       "id": "韩三千苏迎夏",
@@ -1335,7 +1215,7 @@
       "boards": [
         "唐三中文·总榜"
       ],
-      "hot": 78
+      "hot": 71
     },
     {
       "id": "君上要做负心汉",
@@ -1351,7 +1231,23 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 79
+      "hot": 72
+    },
+    {
+      "id": "我被系统托管了|木恒",
+      "title": "我被系统托管了",
+      "author": "木恒",
+      "category": "科幻未来",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/73928/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 73
     },
     {
       "id": "都市全能医皇",
@@ -1366,6 +1262,102 @@
       ],
       "boards": [
         "鬼吹灯③·总榜"
+      ],
+      "hot": 74
+    },
+    {
+      "id": "完美世界|辰东",
+      "title": "完美世界",
+      "author": "辰东",
+      "category": "东方玄幻",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/23621/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 75
+    },
+    {
+      "id": "永恒圣王",
+      "title": "永恒圣王",
+      "author": "",
+      "category": "仙侠小说",
+      "status": "",
+      "url": "http://www.xyetianlian.com/yt6090/",
+      "siteCount": 1,
+      "sites": [
+        "何以笙箫默小说"
+      ],
+      "boards": [
+        "何以笙箫默小说·总榜"
+      ],
+      "hot": 76
+    },
+    {
+      "id": "云若月楚玄辰",
+      "title": "云若月楚玄辰",
+      "author": "",
+      "category": "其它小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/laodadeta/",
+      "siteCount": 1,
+      "sites": [
+        "唐三中文"
+      ],
+      "boards": [
+        "唐三中文·总榜"
+      ],
+      "hot": 77
+    },
+    {
+      "id": "大主宰",
+      "title": "大主宰",
+      "author": "",
+      "category": "玄幻小说",
+      "status": "",
+      "url": "http://www.gdbzkz.la/dazhuzai/",
+      "siteCount": 1,
+      "sites": [
+        "鬼吹灯③"
+      ],
+      "boards": [
+        "鬼吹灯③·总榜"
+      ],
+      "hot": 78
+    },
+    {
+      "id": "两界修",
+      "title": "两界修",
+      "author": "",
+      "category": "玄幻小说",
+      "status": "",
+      "url": "http://www.xyetianlian.com/yt51534/",
+      "siteCount": 1,
+      "sites": [
+        "何以笙箫默小说"
+      ],
+      "boards": [
+        "何以笙箫默小说·总榜"
+      ],
+      "hot": 79
+    },
+    {
+      "id": "麻衣神婿",
+      "title": "麻衣神婿",
+      "author": "",
+      "category": "其它小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/mayishenxu/",
+      "siteCount": 1,
+      "sites": [
+        "唐三中文"
+      ],
+      "boards": [
+        "唐三中文·总榜"
       ],
       "hot": 80
     },
@@ -1386,118 +1378,6 @@
       "hot": 81
     },
     {
-      "id": "永恒圣王",
-      "title": "永恒圣王",
-      "author": "",
-      "category": "仙侠小说",
-      "status": "",
-      "url": "http://www.xyetianlian.com/yt6090/",
-      "siteCount": 1,
-      "sites": [
-        "何以笙箫默小说"
-      ],
-      "boards": [
-        "何以笙箫默小说·总榜"
-      ],
-      "hot": 82
-    },
-    {
-      "id": "云若月楚玄辰",
-      "title": "云若月楚玄辰",
-      "author": "",
-      "category": "其它小说",
-      "status": "",
-      "url": "http://www.xtangsanshu.info/laodadeta/",
-      "siteCount": 1,
-      "sites": [
-        "唐三中文"
-      ],
-      "boards": [
-        "唐三中文·总榜"
-      ],
-      "hot": 83
-    },
-    {
-      "id": "大主宰",
-      "title": "大主宰",
-      "author": "",
-      "category": "玄幻小说",
-      "status": "",
-      "url": "http://www.gdbzkz.la/dazhuzai/",
-      "siteCount": 1,
-      "sites": [
-        "鬼吹灯③"
-      ],
-      "boards": [
-        "鬼吹灯③·总榜"
-      ],
-      "hot": 84
-    },
-    {
-      "id": "两界修",
-      "title": "两界修",
-      "author": "",
-      "category": "玄幻小说",
-      "status": "",
-      "url": "http://www.xyetianlian.com/yt51534/",
-      "siteCount": 1,
-      "sites": [
-        "何以笙箫默小说"
-      ],
-      "boards": [
-        "何以笙箫默小说·总榜"
-      ],
-      "hot": 85
-    },
-    {
-      "id": "麻衣神婿",
-      "title": "麻衣神婿",
-      "author": "",
-      "category": "其它小说",
-      "status": "",
-      "url": "http://www.xtangsanshu.info/mayishenxu/",
-      "siteCount": 1,
-      "sites": [
-        "唐三中文"
-      ],
-      "boards": [
-        "唐三中文·总榜"
-      ],
-      "hot": 86
-    },
-    {
-      "id": "最佳女婿|林羽江颜",
-      "title": "最佳女婿",
-      "author": "林羽江颜",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/5935/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 87
-    },
-    {
-      "id": "武破九荒|无敌小贝",
-      "title": "武破九荒",
-      "author": "无敌小贝",
-      "category": "恐怖惊悚",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/59230/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 88
-    },
-    {
       "id": "一切从宝芝林开始",
       "title": "一切从宝芝林开始",
       "author": "",
@@ -1511,7 +1391,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 89
+      "hot": 82
     },
     {
       "id": "重生之惊世一品妃",
@@ -1527,15 +1407,15 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 90
+      "hot": 83
     },
     {
-      "id": "超级神基因|十二翼黑暗炽天使",
-      "title": "超级神基因",
-      "author": "十二翼黑暗炽天使",
-      "category": "恐怖惊悚",
+      "id": "采阴|夜落影",
+      "title": "采阴",
+      "author": "夜落影",
+      "category": "仙侠修真",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/68230/",
+      "url": "http://www.qiushu.info/t/40508/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1543,23 +1423,7 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 91
-    },
-    {
-      "id": "史上最强炼气期",
-      "title": "史上最强炼气期",
-      "author": "",
-      "category": "都市小说",
-      "status": "",
-      "url": "http://www.xtangsanshu.info/shishangzuiqianglianqiqi/",
-      "siteCount": 1,
-      "sites": [
-        "唐三中文"
-      ],
-      "boards": [
-        "唐三中文·总榜"
-      ],
-      "hot": 92
+      "hot": 84
     },
     {
       "id": "宿主又是惨死的一天",
@@ -1575,7 +1439,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 93
+      "hot": 85
     },
     {
       "id": "重生八零最佳再婚",
@@ -1591,7 +1455,7 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 94
+      "hot": 86
     },
     {
       "id": "本宫的驸马欠管教",
@@ -1607,23 +1471,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 95
-    },
-    {
-      "id": "兼职保镖|虾写",
-      "title": "兼职保镖",
-      "author": "虾写",
-      "category": "都市生活",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/14440/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 96
+      "hot": 87
     },
     {
       "id": "九星之主",
@@ -1639,7 +1487,23 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 97
+      "hot": 88
+    },
+    {
+      "id": "全球高武|老鹰吃小鸡",
+      "title": "全球高武",
+      "author": "老鹰吃小鸡",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/21419/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 89
     },
     {
       "id": "遮天",
@@ -1655,7 +1519,7 @@
       "boards": [
         "唐三中文·总榜"
       ],
-      "hot": 98
+      "hot": 90
     },
     {
       "id": "残魄御天",
@@ -1671,15 +1535,15 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 99
+      "hot": 91
     },
     {
-      "id": "绝世唐门|唐家三少",
-      "title": "绝世唐门",
-      "author": "唐家三少",
-      "category": "玄幻异界",
-      "status": "已完成",
-      "url": "http://www.qiushu.info/t/10601/",
+      "id": "极品全能学生|花都大少",
+      "title": "极品全能学生",
+      "author": "花都大少",
+      "category": "恐怖惊悚",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/57199/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1687,7 +1551,7 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 100
+      "hot": 92
     },
     {
       "id": "开局种下硬币",
@@ -1703,7 +1567,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 101
+      "hot": 93
     },
     {
       "id": "沧元图",
@@ -1719,7 +1583,23 @@
       "boards": [
         "唐三中文·总榜"
       ],
-      "hot": 102
+      "hot": 94
+    },
+    {
+      "id": "秦吏|七月新番",
+      "title": "秦吏",
+      "author": "七月新番",
+      "category": "历史传奇",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/77037/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 95
     },
     {
       "id": "首充六元的剑",
@@ -1735,7 +1615,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 103
+      "hot": 96
     },
     {
       "id": "至尊邪圣",
@@ -1751,7 +1631,23 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 104
+      "hot": 97
+    },
+    {
+      "id": "豪婿",
+      "title": "豪婿",
+      "author": "",
+      "category": "都市小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/haoxu/",
+      "siteCount": 1,
+      "sites": [
+        "唐三中文"
+      ],
+      "boards": [
+        "唐三中文·总榜"
+      ],
+      "hot": 98
     },
     {
       "id": "我真没想穿越",
@@ -1767,7 +1663,23 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 105
+      "hot": 99
+    },
+    {
+      "id": "永夜君王|烟雨江南",
+      "title": "永夜君王",
+      "author": "烟雨江南",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/48647/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 100
     },
     {
       "id": "转生眼中的火影世界",
@@ -1783,7 +1695,7 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 106
+      "hot": 101
     },
     {
       "id": "财运天降",
@@ -1799,15 +1711,15 @@
       "boards": [
         "唐三中文·总榜"
       ],
-      "hot": 107
+      "hot": 102
     },
     {
-      "id": "斗破苍穹之无上之境|夜雨闻铃0",
-      "title": "斗破苍穹之无上之境",
-      "author": "夜雨闻铃0",
-      "category": "魔法幻情",
+      "id": "顶级神豪|北辰本尊",
+      "title": "顶级神豪",
+      "author": "北辰本尊",
+      "category": "都市生活",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/580/",
+      "url": "http://www.qiushu.info/t/89244/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -1815,7 +1727,7 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 108
+      "hot": 103
     },
     {
       "id": "清城恋一见倾心",
@@ -1831,7 +1743,7 @@
       "boards": [
         "何以笙箫默小说·总榜"
       ],
-      "hot": 109
+      "hot": 104
     },
     {
       "id": "他的小祖宗甜爆了",
@@ -1847,135 +1759,7 @@
       "boards": [
         "鬼吹灯③·总榜"
       ],
-      "hot": 110
-    },
-    {
-      "id": "我师叔是林正英",
-      "title": "我师叔是林正英",
-      "author": "",
-      "category": "仙侠小说",
-      "status": "",
-      "url": "http://www.gdbzkz.la/woshishushilinzhengying/",
-      "siteCount": 1,
-      "sites": [
-        "鬼吹灯③"
-      ],
-      "boards": [
-        "鬼吹灯③·总榜"
-      ],
-      "hot": 111
-    },
-    {
-      "id": "斗罗大陆4终极斗罗|唐家三少",
-      "title": "斗罗大陆4终极斗罗",
-      "author": "唐家三少",
-      "category": "玄幻异界",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/6203/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 112
-    },
-    {
-      "id": "剑临诸天",
-      "title": "剑临诸天",
-      "author": "",
-      "category": "玄幻小说",
-      "status": "",
-      "url": "http://www.xyetianlian.com/yt18843/",
-      "siteCount": 1,
-      "sites": [
-        "何以笙箫默小说"
-      ],
-      "boards": [
-        "何以笙箫默小说·总榜"
-      ],
-      "hot": 113
-    },
-    {
-      "id": "我不想继承万亿家产",
-      "title": "我不想继承万亿家产",
-      "author": "",
-      "category": "都市小说",
-      "status": "",
-      "url": "http://www.xtangsanshu.info/wobuxiangjichengwanyijiachan/",
-      "siteCount": 1,
-      "sites": [
-        "唐三中文"
-      ],
-      "boards": [
-        "唐三中文·总榜"
-      ],
-      "hot": 114
-    },
-    {
-      "id": "我有一颗间谍卫星",
-      "title": "我有一颗间谍卫星",
-      "author": "",
-      "category": "军史小说",
-      "status": "",
-      "url": "http://www.gdbzkz.la/woyouyikejiandieweixing/",
-      "siteCount": 1,
-      "sites": [
-        "鬼吹灯③"
-      ],
-      "boards": [
-        "鬼吹灯③·总榜"
-      ],
-      "hot": 115
-    },
-    {
-      "id": "第一序列",
-      "title": "第一序列",
-      "author": "",
-      "category": "玄幻小说",
-      "status": "",
-      "url": "http://www.xtangsanshu.info/zhongshengzhierzishisisui/",
-      "siteCount": 1,
-      "sites": [
-        "唐三中文"
-      ],
-      "boards": [
-        "唐三中文·总榜"
-      ],
-      "hot": 116
-    },
-    {
-      "id": "无敌狂兵",
-      "title": "无敌狂兵",
-      "author": "",
-      "category": "都市小说",
-      "status": "",
-      "url": "http://www.gdbzkz.la/wudikuangbing/",
-      "siteCount": 1,
-      "sites": [
-        "鬼吹灯③"
-      ],
-      "boards": [
-        "鬼吹灯③·总榜"
-      ],
-      "hot": 117
-    },
-    {
-      "id": "完美世界|辰东",
-      "title": "完美世界",
-      "author": "辰东",
-      "category": "东方玄幻",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/23621/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 118
+      "hot": 105
     },
     {
       "id": "吞噬星空|我吃西红柿",
@@ -1991,15 +1775,31 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 119
+      "hot": 106
     },
     {
-      "id": "飞剑问道|我吃西红柿",
-      "title": "飞剑问道",
-      "author": "我吃西红柿",
-      "category": "仙侠修真",
+      "id": "我师叔是林正英",
+      "title": "我师叔是林正英",
+      "author": "",
+      "category": "仙侠小说",
+      "status": "",
+      "url": "http://www.gdbzkz.la/woshishushilinzhengying/",
+      "siteCount": 1,
+      "sites": [
+        "鬼吹灯③"
+      ],
+      "boards": [
+        "鬼吹灯③·总榜"
+      ],
+      "hot": 107
+    },
+    {
+      "id": "丑女医妃不要跑|书红尘",
+      "title": "丑女医妃，不要跑",
+      "author": "书红尘",
+      "category": "短篇综合",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/15848/",
+      "url": "http://www.qiushu.info/t/10947/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2007,15 +1807,207 @@
       "boards": [
         "求书网·总榜"
       ],
+      "hot": 108
+    },
+    {
+      "id": "剑临诸天",
+      "title": "剑临诸天",
+      "author": "",
+      "category": "玄幻小说",
+      "status": "",
+      "url": "http://www.xyetianlian.com/yt18843/",
+      "siteCount": 1,
+      "sites": [
+        "何以笙箫默小说"
+      ],
+      "boards": [
+        "何以笙箫默小说·总榜"
+      ],
+      "hot": 109
+    },
+    {
+      "id": "我不想继承万亿家产",
+      "title": "我不想继承万亿家产",
+      "author": "",
+      "category": "都市小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/wobuxiangjichengwanyijiachan/",
+      "siteCount": 1,
+      "sites": [
+        "唐三中文"
+      ],
+      "boards": [
+        "唐三中文·总榜"
+      ],
+      "hot": 110
+    },
+    {
+      "id": "我有一颗间谍卫星",
+      "title": "我有一颗间谍卫星",
+      "author": "",
+      "category": "军史小说",
+      "status": "",
+      "url": "http://www.gdbzkz.la/woyouyikejiandieweixing/",
+      "siteCount": 1,
+      "sites": [
+        "鬼吹灯③"
+      ],
+      "boards": [
+        "鬼吹灯③·总榜"
+      ],
+      "hot": 111
+    },
+    {
+      "id": "第一序列",
+      "title": "第一序列",
+      "author": "",
+      "category": "玄幻小说",
+      "status": "",
+      "url": "http://www.xtangsanshu.info/zhongshengzhierzishisisui/",
+      "siteCount": 1,
+      "sites": [
+        "唐三中文"
+      ],
+      "boards": [
+        "唐三中文·总榜"
+      ],
+      "hot": 112
+    },
+    {
+      "id": "无敌狂兵",
+      "title": "无敌狂兵",
+      "author": "",
+      "category": "都市小说",
+      "status": "",
+      "url": "http://www.gdbzkz.la/wudikuangbing/",
+      "siteCount": 1,
+      "sites": [
+        "鬼吹灯③"
+      ],
+      "boards": [
+        "鬼吹灯③·总榜"
+      ],
+      "hot": 113
+    },
+    {
+      "id": "修真聊天群|圣骑士的传说",
+      "title": "修真聊天群",
+      "author": "圣骑士的传说",
+      "category": "恐怖惊悚",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/58486/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 114
+    },
+    {
+      "id": "庆余年|猫腻",
+      "title": "庆余年",
+      "author": "猫腻",
+      "category": "穿越重生",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/846/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 115
+    },
+    {
+      "id": "万族之劫|老鹰吃小鸡",
+      "title": "万族之劫",
+      "author": "老鹰吃小鸡",
+      "category": "都市生活",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/10244/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 116
+    },
+    {
+      "id": "仙武帝尊|六界三道",
+      "title": "仙武帝尊",
+      "author": "六界三道",
+      "category": "玄幻异界",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/87833/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 117
+    },
+    {
+      "id": "绝世唐门|唐家三少",
+      "title": "绝世唐门",
+      "author": "唐家三少",
+      "category": "玄幻异界",
+      "status": "已完成",
+      "url": "http://www.qiushu.info/t/10601/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 118
+    },
+    {
+      "id": "武破九荒|无敌小贝",
+      "title": "武破九荒",
+      "author": "无敌小贝",
+      "category": "恐怖惊悚",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/59230/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 119
+    },
+    {
+      "id": "剑来",
+      "title": "剑来",
+      "author": "",
+      "category": "",
+      "status": "",
+      "url": "http://www.ujxsw.org/book/2904/",
+      "siteCount": 1,
+      "sites": [
+        "悠久小说"
+      ],
+      "boards": [
+        "悠久小说·分类榜"
+      ],
       "hot": 120
     },
     {
-      "id": "合体双修|我是墨水",
-      "title": "合体双修",
-      "author": "我是墨水",
-      "category": "仙侠修真",
+      "id": "重生之最强剑神|天运老猫",
+      "title": "重生之最强剑神",
+      "author": "天运老猫",
+      "category": "体育竞技",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/34900/",
+      "url": "http://www.qiushu.info/t/56403/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2026,12 +2018,12 @@
       "hot": 121
     },
     {
-      "id": "男欢女爱|久石",
-      "title": "男欢女爱",
-      "author": "久石",
-      "category": "谍战特工",
+      "id": "带着仓库到大明|迪巴拉爵士",
+      "title": "带着仓库到大明",
+      "author": "迪巴拉爵士",
+      "category": "历史传奇",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/35294/",
+      "url": "http://www.qiushu.info/t/66385/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2040,22 +2032,6 @@
         "求书网·总榜"
       ],
       "hot": 122
-    },
-    {
-      "id": "权力巅峰|梦入洪荒",
-      "title": "权力巅峰",
-      "author": "梦入洪荒",
-      "category": "官场职场",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/27165/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 123
     },
     {
       "id": "天道天骄",
@@ -2071,15 +2047,15 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 124
+      "hot": 123
     },
     {
-      "id": "大王饶命|会说话的肘子",
-      "title": "大王饶命",
-      "author": "会说话的肘子",
-      "category": "都市生活",
+      "id": "超级神基因|十二翼黑暗炽天使",
+      "title": "超级神基因",
+      "author": "十二翼黑暗炽天使",
+      "category": "恐怖惊悚",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/71678/",
+      "url": "http://www.qiushu.info/t/68230/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2087,7 +2063,7 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 125
+      "hot": 124
     },
     {
       "id": "龙纹战神",
@@ -2103,23 +2079,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 126
-    },
-    {
-      "id": "九星毒奶|育",
-      "title": "九星毒奶",
-      "author": "育",
-      "category": "科幻未来",
-      "status": "连载中",
-      "url": "http://www.qiushu.info/t/84809/",
-      "siteCount": 1,
-      "sites": [
-        "求书网"
-      ],
-      "boards": [
-        "求书网·总榜"
-      ],
-      "hot": 127
+      "hot": 125
     },
     {
       "id": "雷武",
@@ -2135,15 +2095,15 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 128
+      "hot": 126
     },
     {
-      "id": "绝世武神|净无痕",
-      "title": "绝世武神",
-      "author": "净无痕",
-      "category": "玄幻异界",
-      "status": "已完成",
-      "url": "http://www.qiushu.info/t/27384/",
+      "id": "学霸的黑科技系统|晨星ll",
+      "title": "学霸的黑科技系统",
+      "author": "晨星LL",
+      "category": "科幻未来",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/78283/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2151,7 +2111,23 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 129
+      "hot": 127
+    },
+    {
+      "id": "民国谍影|寻青藤",
+      "title": "民国谍影",
+      "author": "寻青藤",
+      "category": "军事战争",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/78181/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 128
     },
     {
       "id": "我独仙行",
@@ -2160,6 +2136,22 @@
       "category": "",
       "status": "",
       "url": "http://www.ujxsw.org/book/1934/",
+      "siteCount": 1,
+      "sites": [
+        "悠久小说"
+      ],
+      "boards": [
+        "悠久小说·分类榜"
+      ],
+      "hot": 129
+    },
+    {
+      "id": "诡秘之主",
+      "title": "诡秘之主",
+      "author": "",
+      "category": "",
+      "status": "",
+      "url": "http://www.ujxsw.org/book/9693/",
       "siteCount": 1,
       "sites": [
         "悠久小说"
@@ -2186,12 +2178,12 @@
       "hot": 131
     },
     {
-      "id": "帝霸|厌笔萧生",
-      "title": "帝霸",
-      "author": "厌笔萧生",
-      "category": "恐怖惊悚",
+      "id": "逆天邪神|火星引力",
+      "title": "逆天邪神",
+      "author": "火星引力",
+      "category": "东方玄幻",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/57411/",
+      "url": "http://www.qiushu.info/t/51748/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2218,6 +2210,22 @@
       "hot": 133
     },
     {
+      "id": "雪中悍刀行|烽火戏诸侯",
+      "title": "雪中悍刀行",
+      "author": "烽火戏诸侯",
+      "category": "东方玄幻",
+      "status": "连载中",
+      "url": "http://www.qiushu.info/t/3592/",
+      "siteCount": 1,
+      "sites": [
+        "求书网"
+      ],
+      "boards": [
+        "求书网·总榜"
+      ],
+      "hot": 134
+    },
+    {
       "id": "将夜",
       "title": "将夜",
       "author": "",
@@ -2231,15 +2239,15 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 134
+      "hot": 135
     },
     {
-      "id": "特种兵在都市|夜十三",
-      "title": "特种兵在都市",
-      "author": "夜十三",
-      "category": "谍战特工",
+      "id": "明朝败家子|上山打老虎额",
+      "title": "明朝败家子",
+      "author": "上山打老虎额",
+      "category": "历史传奇",
       "status": "连载中",
-      "url": "http://www.qiushu.info/t/14486/",
+      "url": "http://www.qiushu.info/t/78269/",
       "siteCount": 1,
       "sites": [
         "求书网"
@@ -2247,7 +2255,7 @@
       "boards": [
         "求书网·总榜"
       ],
-      "hot": 135
+      "hot": 136
     },
     {
       "id": "圣墟",
@@ -2263,7 +2271,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 136
+      "hot": 137
     },
     {
       "id": "神印王座ii皓月当空",
@@ -2279,7 +2287,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 137
+      "hot": 138
     },
     {
       "id": "天人图谱",
@@ -2295,7 +2303,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 138
+      "hot": 139
     },
     {
       "id": "诡秘之王",
@@ -2311,7 +2319,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 139
+      "hot": 140
     },
     {
       "id": "藏海花",
@@ -2327,7 +2335,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 140
+      "hot": 141
     },
     {
       "id": "万界猎徒师",
@@ -2343,7 +2351,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 141
+      "hot": 142
     },
     {
       "id": "葬天剑帝",
@@ -2359,7 +2367,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 142
+      "hot": 143
     },
     {
       "id": "大明武帝崇祯",
@@ -2375,7 +2383,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 143
+      "hot": 144
     },
     {
       "id": "剑凌九重天下",
@@ -2391,7 +2399,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 144
+      "hot": 145
     },
     {
       "id": "无上丹尊",
@@ -2407,7 +2415,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 145
+      "hot": 146
     },
     {
       "id": "天道图书馆",
@@ -2423,7 +2431,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 146
+      "hot": 147
     },
     {
       "id": "肝在末世加点升级",
@@ -2439,7 +2447,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 147
+      "hot": 148
     },
     {
       "id": "剑道第一仙",
@@ -2455,7 +2463,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 148
+      "hot": 149
     },
     {
       "id": "至高权利",
@@ -2471,7 +2479,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 149
+      "hot": 150
     },
     {
       "id": "贤者与少女",
@@ -2487,7 +2495,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 150
+      "hot": 151
     },
     {
       "id": "大奉打更人",
@@ -2503,7 +2511,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 151
+      "hot": 152
     },
     {
       "id": "修真高手的田园生活",
@@ -2519,7 +2527,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 152
+      "hot": 153
     },
     {
       "id": "星辰变",
@@ -2535,7 +2543,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 153
+      "hot": 154
     },
     {
       "id": "仙武神煌",
@@ -2551,7 +2559,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 154
+      "hot": 155
     },
     {
       "id": "终极全才",
@@ -2567,7 +2575,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 155
+      "hot": 156
     },
     {
       "id": "坐忘长生",
@@ -2583,7 +2591,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 156
+      "hot": 157
     },
     {
       "id": "原来我是修仙大佬",
@@ -2599,7 +2607,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 157
+      "hot": 158
     },
     {
       "id": "仙府种田",
@@ -2615,7 +2623,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 158
+      "hot": 159
     },
     {
       "id": "三寸人间",
@@ -2631,7 +2639,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 159
+      "hot": 160
     },
     {
       "id": "魔门败类",
@@ -2647,7 +2655,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 160
+      "hot": 161
     },
     {
       "id": "大梦主",
@@ -2663,7 +2671,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 161
+      "hot": 162
     },
     {
       "id": "从赘婿开始建立长生家族",
@@ -2679,7 +2687,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 162
+      "hot": 163
     },
     {
       "id": "封神我被众神偷听心声",
@@ -2695,7 +2703,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 163
+      "hot": 164
     },
     {
       "id": "长生从下山娶妻开始",
@@ -2711,7 +2719,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 164
+      "hot": 165
     },
     {
       "id": "剑道长生路",
@@ -2727,7 +2735,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 165
+      "hot": 166
     },
     {
       "id": "我有一枚两界印",
@@ -2743,7 +2751,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 166
+      "hot": 167
     },
     {
       "id": "白蛇问道",
@@ -2752,22 +2760,6 @@
       "category": "",
       "status": "",
       "url": "http://www.ujxsw.org/book/61796/",
-      "siteCount": 1,
-      "sites": [
-        "悠久小说"
-      ],
-      "boards": [
-        "悠久小说·分类榜"
-      ],
-      "hot": 167
-    },
-    {
-      "id": "地煞七十二变",
-      "title": "地煞七十二变",
-      "author": "",
-      "category": "",
-      "status": "",
-      "url": "http://www.ujxsw.org/book/12792/",
       "siteCount": 1,
       "sites": [
         "悠久小说"
@@ -3018,6 +3010,22 @@
       "hot": 183
     },
     {
+      "id": "校花的贴身高手",
+      "title": "校花的贴身高手",
+      "author": "",
+      "category": "",
+      "status": "",
+      "url": "http://www.ujxsw.org/book/244/",
+      "siteCount": 1,
+      "sites": [
+        "悠久小说"
+      ],
+      "boards": [
+        "悠久小说·分类榜"
+      ],
+      "hot": 184
+    },
+    {
       "id": "医武兵王",
       "title": "医武兵王",
       "author": "",
@@ -3031,7 +3039,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 184
+      "hot": 185
     },
     {
       "id": "特拉福买家俱乐部",
@@ -3047,7 +3055,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 185
+      "hot": 186
     },
     {
       "id": "我的26岁女房客",
@@ -3063,7 +3071,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 186
+      "hot": 187
     },
     {
       "id": "兼职艺术家",
@@ -3079,7 +3087,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 187
+      "hot": 188
     },
     {
       "id": "都重生了谁谈恋爱啊",
@@ -3095,7 +3103,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 188
+      "hot": 189
     },
     {
       "id": "最强战神",
@@ -3111,7 +3119,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 189
+      "hot": 190
     },
     {
       "id": "重生后我顶替了前夫白月光",
@@ -3127,7 +3135,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 190
+      "hot": 191
     },
     {
       "id": "神豪反派从抢走叶凡未婚妻开始",
@@ -3143,7 +3151,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 191
+      "hot": 192
     },
     {
       "id": "最狂医婿",
@@ -3159,7 +3167,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 192
+      "hot": 193
     },
     {
       "id": "四合院从截胡秦淮茹开始",
@@ -3175,7 +3183,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 193
+      "hot": 194
     },
     {
       "id": "越轨",
@@ -3191,7 +3199,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 194
+      "hot": 195
     },
     {
       "id": "四宝来袭战爷娇妻是大佬",
@@ -3207,7 +3215,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 195
+      "hot": 196
     },
     {
       "id": "我能和古董对话",
@@ -3223,7 +3231,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 196
+      "hot": 197
     },
     {
       "id": "团宠前妻离婚后被三个哥哥宠翻了",
@@ -3239,7 +3247,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 197
+      "hot": 198
     },
     {
       "id": "深渊",
@@ -3255,7 +3263,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 198
+      "hot": 199
     },
     {
       "id": "重生八零科研大佬种田报效祖国",
@@ -3271,7 +3279,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 199
+      "hot": 200
     },
     {
       "id": "赘婿",
@@ -3287,7 +3295,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 200
+      "hot": 201
     },
     {
       "id": "极品贴身家丁",
@@ -3303,7 +3311,23 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 201
+      "hot": 202
+    },
+    {
+      "id": "神话版三国",
+      "title": "神话版三国",
+      "author": "",
+      "category": "",
+      "status": "",
+      "url": "http://www.ujxsw.org/book/2452/",
+      "siteCount": 1,
+      "sites": [
+        "悠久小说"
+      ],
+      "boards": [
+        "悠久小说·分类榜"
+      ],
+      "hot": 203
     },
     {
       "id": "寒门祸害",
@@ -3319,7 +3343,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 202
+      "hot": 204
     },
     {
       "id": "寒门崛起",
@@ -3335,7 +3359,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 203
+      "hot": 205
     },
     {
       "id": "诡三国",
@@ -3351,7 +3375,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 204
+      "hot": 206
     },
     {
       "id": "欧皇崛起",
@@ -3367,7 +3391,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 205
+      "hot": 207
     },
     {
       "id": "摄政大明",
@@ -3383,7 +3407,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 206
+      "hot": 208
     },
     {
       "id": "从今天开始做藩王",
@@ -3399,7 +3423,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 207
+      "hot": 209
     },
     {
       "id": "扶明录",
@@ -3415,7 +3439,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 208
+      "hot": 210
     },
     {
       "id": "宋疆",
@@ -3431,7 +3455,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 209
+      "hot": 211
     },
     {
       "id": "红色莫斯科",
@@ -3447,7 +3471,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 210
+      "hot": 212
     },
     {
       "id": "玄德",
@@ -3463,7 +3487,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 211
+      "hot": 213
     },
     {
       "id": "大明让你赈灾你往锅里掺沙子",
@@ -3479,7 +3503,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 212
+      "hot": 214
     },
     {
       "id": "狂野北美1846",
@@ -3495,7 +3519,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 213
+      "hot": 215
     },
     {
       "id": "大夏第一狠人",
@@ -3511,7 +3535,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 214
+      "hot": 216
     },
     {
       "id": "家父隋炀帝",
@@ -3527,7 +3551,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 215
+      "hot": 217
     },
     {
       "id": "逍遥姑爷",
@@ -3543,7 +3567,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 216
+      "hot": 218
     },
     {
       "id": "被退婚后我诗仙的身份曝光了李辰安钟离若水",
@@ -3559,7 +3583,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 217
+      "hot": 219
     },
     {
       "id": "大明公务员",
@@ -3575,7 +3599,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 218
+      "hot": 220
     },
     {
       "id": "三国我为刘禅霄汉永灿",
@@ -3591,7 +3615,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 219
+      "hot": 221
     },
     {
       "id": "历代王朝更迭",
@@ -3607,7 +3631,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 220
+      "hot": 222
     },
     {
       "id": "秦功",
@@ -3623,7 +3647,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 221
+      "hot": 223
     },
     {
       "id": "我岳父是李世民",
@@ -3639,7 +3663,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 222
+      "hot": 224
     },
     {
       "id": "大唐之最强熊孩子",
@@ -3655,7 +3679,23 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 223
+      "hot": 225
+    },
+    {
+      "id": "轮回乐园",
+      "title": "轮回乐园",
+      "author": "",
+      "category": "",
+      "status": "",
+      "url": "http://www.ujxsw.org/book/5453/",
+      "siteCount": 1,
+      "sites": [
+        "悠久小说"
+      ],
+      "boards": [
+        "悠久小说·分类榜"
+      ],
+      "hot": 226
     },
     {
       "id": "超神机械师",
@@ -3671,7 +3711,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 224
+      "hot": 227
     },
     {
       "id": "网游之最强传说",
@@ -3687,7 +3727,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 225
+      "hot": 228
     },
     {
       "id": "斗罗玉传",
@@ -3703,7 +3743,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 226
+      "hot": 229
     },
     {
       "id": "金色绿茵",
@@ -3719,7 +3759,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 227
+      "hot": 230
     },
     {
       "id": "我就是不按套路出牌",
@@ -3735,7 +3775,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 228
+      "hot": 231
     },
     {
       "id": "哈利波特之罪恶之书",
@@ -3751,7 +3791,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 229
+      "hot": 232
     },
     {
       "id": "仙王的日常生活",
@@ -3767,7 +3807,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 230
+      "hot": 233
     },
     {
       "id": "我加载了恋爱游戏",
@@ -3783,7 +3823,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 231
+      "hot": 234
     },
     {
       "id": "神奇宝贝之精灵掌控者",
@@ -3799,7 +3839,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 232
+      "hot": 235
     },
     {
       "id": "从巨人开始的无限",
@@ -3815,7 +3855,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 233
+      "hot": 236
     },
     {
       "id": "我家娘子不对劲洛青舟",
@@ -3831,7 +3871,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 234
+      "hot": 237
     },
     {
       "id": "足球开局奖励大罗小罗c罗模板",
@@ -3847,7 +3887,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 235
+      "hot": 238
     },
     {
       "id": "从天才开始无敌于斗破",
@@ -3863,7 +3903,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 236
+      "hot": 239
     },
     {
       "id": "我本无意成仙",
@@ -3879,7 +3919,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 237
+      "hot": 240
     },
     {
       "id": "无敌从我看见boss血条开始",
@@ -3895,7 +3935,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 238
+      "hot": 241
     },
     {
       "id": "诡异降临还好我是十殿阎王",
@@ -3911,7 +3951,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 239
+      "hot": 242
     },
     {
       "id": "穿越三代大蛇丸你来当火影",
@@ -3927,7 +3967,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 240
+      "hot": 243
     },
     {
       "id": "木叶黄猿工资到位五影干废",
@@ -3943,7 +3983,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 241
+      "hot": 244
     },
     {
       "id": "无限恐怖之基因沸腾",
@@ -3959,7 +3999,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 242
+      "hot": 245
     },
     {
       "id": "斗罗绝世之日月雨浩",
@@ -3975,7 +4015,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 243
+      "hot": 246
     },
     {
       "id": "从空间之力至诸天",
@@ -3991,7 +4031,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 244
+      "hot": 247
     },
     {
       "id": "洛青舟",
@@ -4007,7 +4047,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 245
+      "hot": 248
     },
     {
       "id": "精灵开局捡到重生伊布",
@@ -4023,7 +4063,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 246
+      "hot": 249
     },
     {
       "id": "我的数码黑王后",
@@ -4039,7 +4079,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 247
+      "hot": 250
     },
     {
       "id": "遮天之绝世大黑手",
@@ -4055,7 +4095,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 248
+      "hot": 251
     },
     {
       "id": "我在异界有座城",
@@ -4071,7 +4111,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 249
+      "hot": 252
     },
     {
       "id": "末日崛起",
@@ -4087,7 +4127,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 250
+      "hot": 253
     },
     {
       "id": "末日轮盘",
@@ -4103,7 +4143,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 251
+      "hot": 254
     },
     {
       "id": "腐烂国度之活下去",
@@ -4119,7 +4159,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 252
+      "hot": 255
     },
     {
       "id": "我有一座恐怖屋",
@@ -4135,7 +4175,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 253
+      "hot": 256
     },
     {
       "id": "从姑获鸟开始",
@@ -4151,7 +4191,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 254
+      "hot": 257
     },
     {
       "id": "猛鬼收容系统",
@@ -4167,7 +4207,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 255
+      "hot": 258
     },
     {
       "id": "诸界末日在线",
@@ -4183,7 +4223,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 256
+      "hot": 259
     },
     {
       "id": "超级母舰",
@@ -4199,7 +4239,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 257
+      "hot": 260
     },
     {
       "id": "我只喜欢你的人设娱乐圈",
@@ -4215,7 +4255,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 258
+      "hot": 261
     },
     {
       "id": "隐秘死角",
@@ -4231,7 +4271,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 259
+      "hot": 262
     },
     {
       "id": "星河之上",
@@ -4247,7 +4287,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 260
+      "hot": 263
     },
     {
       "id": "盗墓笔记",
@@ -4263,7 +4303,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 261
+      "hot": 264
     },
     {
       "id": "我在末日文字游戏里救世",
@@ -4279,7 +4319,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 262
+      "hot": 265
     },
     {
       "id": "我在荒岛肝属性",
@@ -4295,7 +4335,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 263
+      "hot": 266
     },
     {
       "id": "钢铁黎明",
@@ -4311,7 +4351,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 264
+      "hot": 267
     },
     {
       "id": "清末的法师",
@@ -4327,7 +4367,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 265
+      "hot": 268
     },
     {
       "id": "快穿成反派大佬的女儿后我躺赢了",
@@ -4343,7 +4383,7 @@
       "boards": [
         "悠久小说·分类榜"
       ],
-      "hot": 266
+      "hot": 269
     }
   ]
 }
